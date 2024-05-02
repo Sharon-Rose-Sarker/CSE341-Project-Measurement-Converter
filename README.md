@@ -11,4 +11,10 @@ This converter takes decimal values and converter into
     7. Yard to Feet
     8. Feet to Yard
     
-and returns the converted decimal value
+and returns the converted decimal value.
+
+This is a group project for CSE341 
+and it was created by :
+Kohinoor Sultana Elora
+Saowmi Mehjabin
+Sharon Rose Sarker 
