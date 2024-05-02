@@ -14,7 +14,11 @@ This converter takes decimal values and converter into
 and returns the converted decimal value.
 
 This is a group project for CSE341 
+
 and it was created by :
+
 Kohinoor Sultana Elora
+
 Saowmi Mehjabin
+
 Sharon Rose Sarker 
